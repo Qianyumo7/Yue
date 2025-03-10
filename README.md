@@ -1,2 +1,2 @@
-# Yue.
+# Yue
 hello
